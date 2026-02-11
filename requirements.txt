@@ -55,3 +55,9 @@ yt-dlp==2025.10.22
 ktool==1.0.1
 zlapi==1.0.3
 google-genai==1.62.0
+flask==3.1.2
+zalo-sdk==0.2.9
+zalo-official-sdk==1.0.1
+Zalo-bot==0.1.0
+python-dotenv==1.2.1
+gunicorn==25.0.3
