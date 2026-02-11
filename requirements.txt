@@ -1,5 +1,6 @@
 aiohappyeyeballs==2.6.1
 aiohttp==3.13.1
+pyaudioop
 aiosignal==1.4.0
 annotated-types==0.7.0
 anyio==4.11.0
@@ -52,3 +53,6 @@ websockets==15.0.1
 wheel==0.45.1
 yarl==1.22.0
 yt-dlp==2025.10.22
+ktool
+zlapi
+google-genai
