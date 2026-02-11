@@ -1,0 +1,290 @@
+{
+  "daily": {
+    "2025-11-26": {
+      "users": [
+        {
+          "UserID": "1835794555224761984",
+          "UserName": "Vương Ma Tử",
+          "Rank": 6,
+          "LastActive": "2025-11-26T18:58:37.853669"
+        },
+        {
+          "UserID": "3343000672492228510",
+          "UserName": "Qeen Love",
+          "Rank": 14,
+          "LastActive": "2025-11-26T18:58:11.875886"
+        },
+        {
+          "UserID": "6137352992676625622",
+          "UserName": "Yến Nhi Cute Xink Gái",
+          "Rank": 1,
+          "LastActive": "2025-11-26T18:57:23.988733"
+        },
+        {
+          "UserID": "460653219753076638",
+          "UserName": "Rdaccgiare",
+          "Rank": 3,
+          "LastActive": "2025-11-26T19:52:30.369724"
+        },
+        {
+          "UserID": "6557185996679602181",
+          "UserName": "Nguyễn Văn Dũng",
+          "Rank": 2,
+          "LastActive": "2025-11-26T19:36:10.154596"
+        },
+        {
+          "UserID": "8428596022472722690",
+          "UserName": "Ngọc Như",
+          "Rank": 4,
+          "LastActive": "2025-11-26T19:44:26.588068"
+        },
+        {
+          "UserID": "8253520658510888304",
+          "UserName": "Đinh Minh Tướng",
+          "Rank": 3,
+          "LastActive": "2025-11-26T19:47:14.127969"
+        },
+        {
+          "UserID": "2143747344068352058",
+          "UserName": "Duong",
+          "Rank": 3,
+          "LastActive": "2025-11-26T19:58:44.039158"
+        },
+        {
+          "UserID": "2446481100133275401",
+          "UserName": "彡 Tiểu Thập - Ntnm Zan ツ -亗",
+          "Rank": 1,
+          "LastActive": "2025-11-26T19:08:33.165987"
+        },
+        {
+          "UserID": "167079022286640811",
+          "UserName": "Ngbao",
+          "Rank": 2,
+          "LastActive": "2025-11-26T19:53:56.199708"
+        },
+        {
+          "UserID": "88408367724101312",
+          "UserName": "Nguyễn Quang Thái",
+          "Rank": 1,
+          "LastActive": "2025-11-26T19:18:25.405472"
+        },
+        {
+          "UserID": "4327585372085942260",
+          "UserName": "Gấu メ Lux",
+          "Rank": 2,
+          "LastActive": "2025-11-26T19:58:00.490865"
+        },
+        {
+          "UserID": "3700591271632154017",
+          "UserName": "卍 Đệ Tuấn Minh Súp Pọt 卍",
+          "Rank": 1,
+          "LastActive": "2025-11-26T19:23:52.950256"
+        },
+        {
+          "UserID": "1926277516361983041",
+          "UserName": "Xuân Thanh",
+          "Rank": 1,
+          "LastActive": "2025-11-26T19:39:55.242292"
+        },
+        {
+          "UserID": "1538404081317480867",
+          "UserName": "Leo - Devbot",
+          "Rank": 5,
+          "LastActive": "2025-11-26T20:00:27.911548"
+        },
+        {
+          "UserID": "6967619071115170891",
+          "UserName": "Minh Kien",
+          "Rank": 1,
+          "LastActive": "2025-11-26T19:55:58.870082"
+        },
+        {
+          "UserID": "4464938994651336204",
+          "UserName": "Di Cute",
+          "Rank": 15,
+          "LastActive": "2025-11-26T20:01:48.943409"
+        },
+        {
+          "UserID": "1267628162527249261",
+          "UserName": "亗彡ッ彡彡 Bonzzッ彡ッ彡亗 シ",
+          "Rank": 9,
+          "LastActive": "2025-11-26T20:01:09.358256"
+        },
+        {
+          "UserID": "4121126605906824651",
+          "UserName": "Vũ Xuân Kiên",
+          "Rank": 4,
+          "LastActive": "2025-11-26T19:59:43.496814"
+        },
+        {
+          "UserID": "5938353534989762195",
+          "UserName": "Anh Tuấn",
+          "Rank": 1,
+          "LastActive": "2025-11-26T20:03:52.351071"
+        },
+        {
+          "UserID": "6592228514622399110",
+          "UserName": "Nguyễn Hồng Sương",
+          "Rank": 1,
+          "LastActive": "2025-11-26T20:04:21.464622"
+        }
+      ]
+    },
+    "2025-11-27": {
+      "users": [
+        {
+          "UserID": "4464938994651336204",
+          "UserName": "Di Cute",
+          "Rank": 4,
+          "LastActive": "2025-11-27T18:03:45.864335"
+        }
+      ]
+    },
+    "2025-11-29": {
+      "users": [
+        {
+          "UserID": "8483342361047501376",
+          "UserName": "Dương Onus",
+          "Rank": 1,
+          "LastActive": "2025-11-29T11:31:04.752927"
+        }
+      ]
+    }
+  },
+  "total": {
+    "users": [
+      {
+        "UserID": "1835794555224761984",
+        "UserName": "Vương Ma Tử",
+        "Rank": 6,
+        "LastActive": "2025-11-26T18:58:37.853669"
+      },
+      {
+        "UserID": "3343000672492228510",
+        "UserName": "Qeen Love",
+        "Rank": 14,
+        "LastActive": "2025-11-26T18:58:11.875886"
+      },
+      {
+        "UserID": "6137352992676625622",
+        "UserName": "Yến Nhi Cute Xink Gái",
+        "Rank": 1,
+        "LastActive": "2025-11-26T18:57:23.988733"
+      },
+      {
+        "UserID": "460653219753076638",
+        "UserName": "Rdaccgiare",
+        "Rank": 3,
+        "LastActive": "2025-11-26T19:52:30.369724"
+      },
+      {
+        "UserID": "6557185996679602181",
+        "UserName": "Nguyễn Văn Dũng",
+        "Rank": 2,
+        "LastActive": "2025-11-26T19:36:10.154596"
+      },
+      {
+        "UserID": "8428596022472722690",
+        "UserName": "Ngọc Như",
+        "Rank": 4,
+        "LastActive": "2025-11-26T19:44:26.588068"
+      },
+      {
+        "UserID": "8253520658510888304",
+        "UserName": "Đinh Minh Tướng",
+        "Rank": 3,
+        "LastActive": "2025-11-26T19:47:14.127969"
+      },
+      {
+        "UserID": "2143747344068352058",
+        "UserName": "Duong",
+        "Rank": 3,
+        "LastActive": "2025-11-26T19:58:44.039158"
+      },
+      {
+        "UserID": "2446481100133275401",
+        "UserName": "彡 Tiểu Thập - Ntnm Zan ツ -亗",
+        "Rank": 1,
+        "LastActive": "2025-11-26T19:08:33.165987"
+      },
+      {
+        "UserID": "167079022286640811",
+        "UserName": "Ngbao",
+        "Rank": 2,
+        "LastActive": "2025-11-26T19:53:56.199708"
+      },
+      {
+        "UserID": "88408367724101312",
+        "UserName": "Nguyễn Quang Thái",
+        "Rank": 1,
+        "LastActive": "2025-11-26T19:18:25.405472"
+      },
+      {
+        "UserID": "4327585372085942260",
+        "UserName": "Gấu メ Lux",
+        "Rank": 2,
+        "LastActive": "2025-11-26T19:58:00.490865"
+      },
+      {
+        "UserID": "3700591271632154017",
+        "UserName": "卍 Đệ Tuấn Minh Súp Pọt 卍",
+        "Rank": 1,
+        "LastActive": "2025-11-26T19:23:52.950256"
+      },
+      {
+        "UserID": "1926277516361983041",
+        "UserName": "Xuân Thanh",
+        "Rank": 1,
+        "LastActive": "2025-11-26T19:39:55.242292"
+      },
+      {
+        "UserID": "1538404081317480867",
+        "UserName": "Leo - Devbot",
+        "Rank": 5,
+        "LastActive": "2025-11-26T20:00:27.911548"
+      },
+      {
+        "UserID": "6967619071115170891",
+        "UserName": "Minh Kien",
+        "Rank": 1,
+        "LastActive": "2025-11-26T19:55:58.870082"
+      },
+      {
+        "UserID": "4464938994651336204",
+        "UserName": "Di Cute",
+        "Rank": 19,
+        "LastActive": "2025-11-27T18:03:45.864335"
+      },
+      {
+        "UserID": "1267628162527249261",
+        "UserName": "亗彡ッ彡彡 Bonzzッ彡ッ彡亗 シ",
+        "Rank": 9,
+        "LastActive": "2025-11-26T20:01:09.358256"
+      },
+      {
+        "UserID": "4121126605906824651",
+        "UserName": "Vũ Xuân Kiên",
+        "Rank": 4,
+        "LastActive": "2025-11-26T19:59:43.496814"
+      },
+      {
+        "UserID": "5938353534989762195",
+        "UserName": "Anh Tuấn",
+        "Rank": 1,
+        "LastActive": "2025-11-26T20:03:52.351071"
+      },
+      {
+        "UserID": "6592228514622399110",
+        "UserName": "Nguyễn Hồng Sương",
+        "Rank": 1,
+        "LastActive": "2025-11-26T20:04:21.464622"
+      },
+      {
+        "UserID": "8483342361047501376",
+        "UserName": "Dương Onus",
+        "Rank": 1,
+        "LastActive": "2025-11-29T11:31:04.752927"
+      }
+    ]
+  }
+}

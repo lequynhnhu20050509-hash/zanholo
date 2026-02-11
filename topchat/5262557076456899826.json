@@ -1,0 +1,178 @@
+{
+  "daily": {
+    "2025-11-26": {
+      "users": [
+        {
+          "UserID": "2143747344068352058",
+          "UserName": "Duong",
+          "Rank": 10,
+          "LastActive": "2025-11-26T19:07:29.147141"
+        },
+        {
+          "UserID": "6137352992676625622",
+          "UserName": "Yến Nhi Cute Xink Gái",
+          "Rank": 11,
+          "LastActive": "2025-11-26T20:01:32.423398"
+        },
+        {
+          "UserID": "1835794555224761984",
+          "UserName": "Vương Ma Tử",
+          "Rank": 6,
+          "LastActive": "2025-11-26T19:05:46.512559"
+        },
+        {
+          "UserID": "7577015536552872668",
+          "UserName": "Vjtt 八",
+          "Rank": 15,
+          "LastActive": "2025-11-26T19:07:27.182797"
+        },
+        {
+          "UserID": "460653219753076638",
+          "UserName": "Rdaccgiare",
+          "Rank": 3,
+          "LastActive": "2025-11-26T19:51:27.565129"
+        },
+        {
+          "UserID": "6115128828355922983",
+          "UserName": "Tiến Anh",
+          "Rank": 2,
+          "LastActive": "2025-11-26T19:48:35.684101"
+        },
+        {
+          "UserID": "8253520658510888304",
+          "UserName": "Đinh Minh Tướng",
+          "Rank": 3,
+          "LastActive": "2025-11-26T19:47:49.685424"
+        },
+        {
+          "UserID": "4519549498266862402",
+          "UserName": "Huyyyyyyyyyyyyyyyyyy",
+          "Rank": 2,
+          "LastActive": "2025-11-26T20:01:29.620244"
+        },
+        {
+          "UserID": "7349295863783087367",
+          "UserName": "Lê Ngọc Nam",
+          "Rank": 1,
+          "LastActive": "2025-11-26T19:37:13.462725"
+        },
+        {
+          "UserID": "4464938994651336204",
+          "UserName": "Di Cute",
+          "Rank": 2,
+          "LastActive": "2025-11-26T19:51:26.274910"
+        },
+        {
+          "UserID": "5966924306702522676",
+          "UserName": "Tuan Dung Plus 卍",
+          "Rank": 1,
+          "LastActive": "2025-11-26T19:55:25.989250"
+        }
+      ]
+    },
+    "2025-11-29": {
+      "users": [
+        {
+          "UserID": "8772429821891150151",
+          "UserName": "Bv Mèo Mướp",
+          "Rank": 2,
+          "LastActive": "2025-11-29T06:44:55.040048"
+        },
+        {
+          "UserID": "4519549498266862402",
+          "UserName": "Huyyyyyyyyyyyyyyyyyy",
+          "Rank": 1,
+          "LastActive": "2025-11-29T06:41:07.396545"
+        },
+        {
+          "UserID": "8253520658510888304",
+          "UserName": "Đinh Minh Tướng",
+          "Rank": 1,
+          "LastActive": "2025-11-29T06:48:18.577719"
+        },
+        {
+          "UserID": "2143747344068352058",
+          "UserName": "Duong",
+          "Rank": 1,
+          "LastActive": "2025-11-29T11:30:22.467828"
+        }
+      ]
+    }
+  },
+  "total": {
+    "users": [
+      {
+        "UserID": "2143747344068352058",
+        "UserName": "Duong",
+        "Rank": 11,
+        "LastActive": "2025-11-29T11:30:22.467828"
+      },
+      {
+        "UserID": "6137352992676625622",
+        "UserName": "Yến Nhi Cute Xink Gái",
+        "Rank": 11,
+        "LastActive": "2025-11-26T20:01:32.423398"
+      },
+      {
+        "UserID": "1835794555224761984",
+        "UserName": "Vương Ma Tử",
+        "Rank": 6,
+        "LastActive": "2025-11-26T19:05:46.512559"
+      },
+      {
+        "UserID": "7577015536552872668",
+        "UserName": "Vjtt 八",
+        "Rank": 15,
+        "LastActive": "2025-11-26T19:07:27.182797"
+      },
+      {
+        "UserID": "460653219753076638",
+        "UserName": "Rdaccgiare",
+        "Rank": 3,
+        "LastActive": "2025-11-26T19:51:27.565129"
+      },
+      {
+        "UserID": "6115128828355922983",
+        "UserName": "Tiến Anh",
+        "Rank": 2,
+        "LastActive": "2025-11-26T19:48:35.684101"
+      },
+      {
+        "UserID": "8253520658510888304",
+        "UserName": "Đinh Minh Tướng",
+        "Rank": 4,
+        "LastActive": "2025-11-29T06:48:18.577719"
+      },
+      {
+        "UserID": "4519549498266862402",
+        "UserName": "Huyyyyyyyyyyyyyyyyyy",
+        "Rank": 3,
+        "LastActive": "2025-11-29T06:41:07.396545"
+      },
+      {
+        "UserID": "7349295863783087367",
+        "UserName": "Lê Ngọc Nam",
+        "Rank": 1,
+        "LastActive": "2025-11-26T19:37:13.462725"
+      },
+      {
+        "UserID": "4464938994651336204",
+        "UserName": "Di Cute",
+        "Rank": 2,
+        "LastActive": "2025-11-26T19:51:26.274910"
+      },
+      {
+        "UserID": "5966924306702522676",
+        "UserName": "Tuan Dung Plus 卍",
+        "Rank": 1,
+        "LastActive": "2025-11-26T19:55:25.989250"
+      },
+      {
+        "UserID": "8772429821891150151",
+        "UserName": "Bv Mèo Mướp",
+        "Rank": 2,
+        "LastActive": "2025-11-29T06:44:55.040048"
+      }
+    ]
+  }
+}

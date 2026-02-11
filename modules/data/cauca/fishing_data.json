@@ -1,0 +1,31 @@
+{
+  "2143747344068352058": {
+    "level": 1,
+    "exp": 10,
+    "coins": 95,
+    "rod": "basic",
+    "bait": null,
+    "area": "lake",
+    "stats": {
+      "common": 1,
+      "rare": 0,
+      "legendary": 0,
+      "trash": 0
+    },
+    "bag": [
+      {
+        "fish": "🐠 Cá Chép",
+        "rarity": "common",
+        "w": 476,
+        "c": 95
+      }
+    ],
+    "bossKills": 0,
+    "upgrades": {
+      "luck": 0,
+      "strength": 0,
+      "efficiency": 0
+    },
+    "guild": null
+  }
+}

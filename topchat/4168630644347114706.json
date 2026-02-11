@@ -1,0 +1,732 @@
+{
+  "daily": {
+    "2026-01-15": {
+      "users": [
+        {
+          "UserID": "695098115296876718",
+          "UserName": "Latte",
+          "Rank": 234,
+          "LastActive": "2026-01-15T22:01:57.998001"
+        },
+        {
+          "UserID": "8898986211516903540",
+          "UserName": "Kitt",
+          "Rank": 82,
+          "LastActive": "2026-01-15T21:43:48.623765"
+        },
+        {
+          "UserID": "7376495146241444949",
+          "UserName": "Dương",
+          "Rank": 82,
+          "LastActive": "2026-01-15T21:33:18.256646"
+        },
+        {
+          "UserID": "7853039660693152752",
+          "UserName": "Peo Peo",
+          "Rank": 5,
+          "LastActive": "2026-01-15T10:02:16.760935"
+        },
+        {
+          "UserID": "4656361102888610453",
+          "UserName": "Bé Tiên Cute",
+          "Rank": 4,
+          "LastActive": "2026-01-15T21:08:18.085514"
+        },
+        {
+          "UserID": "2869024572604679131",
+          "UserName": "Phùng Văn Hưng",
+          "Rank": 4,
+          "LastActive": "2026-01-15T19:55:36.704967"
+        },
+        {
+          "UserID": "5348358010476103474",
+          "UserName": "Ngoc Bao",
+          "Rank": 6,
+          "LastActive": "2026-01-15T19:54:24.003265"
+        },
+        {
+          "UserID": "3604373666702574350",
+          "UserName": "Em Không Sai Chúng Ta Sai",
+          "Rank": 20,
+          "LastActive": "2026-01-15T15:49:24.726282"
+        },
+        {
+          "UserID": "3222283401951408060",
+          "UserName": "Vphuc Chấm On Lai",
+          "Rank": 2,
+          "LastActive": "2026-01-15T12:22:31.360061"
+        },
+        {
+          "UserID": "4942909907261008019",
+          "UserName": "Huy Bé",
+          "Rank": 55,
+          "LastActive": "2026-01-15T18:04:15.949541"
+        },
+        {
+          "UserID": "8267637903950625463",
+          "UserName": "Mai Đinh Gia Bảo",
+          "Rank": 72,
+          "LastActive": "2026-01-15T20:13:09.987333"
+        },
+        {
+          "UserID": "1277587978572619697",
+          "UserName": "프로그램 작성 Khangdev 좋은",
+          "Rank": 10,
+          "LastActive": "2026-01-15T11:17:14.053819"
+        },
+        {
+          "UserID": "4068806218656725884",
+          "UserName": "Trần Trung Hiếu",
+          "Rank": 1,
+          "LastActive": "2026-01-15T10:57:10.933825"
+        },
+        {
+          "UserID": "7090095962527921006",
+          "UserName": "Xuan Chinh Media",
+          "Rank": 17,
+          "LastActive": "2026-01-15T17:42:56.042724"
+        },
+        {
+          "UserID": "4049244273645223226",
+          "UserName": "Lotus One",
+          "Rank": 2,
+          "LastActive": "2026-01-15T12:01:45.181204"
+        },
+        {
+          "UserID": "7134434203705939209",
+          "UserName": "Hadat",
+          "Rank": 6,
+          "LastActive": "2026-01-15T12:18:18.681338"
+        },
+        {
+          "UserID": "5946065186767512207",
+          "UserName": "Jinny",
+          "Rank": 11,
+          "LastActive": "2026-01-15T21:44:22.723552"
+        },
+        {
+          "UserID": "4098374154973949163",
+          "UserName": "Gia Bao",
+          "Rank": 70,
+          "LastActive": "2026-01-15T17:37:26.849222"
+        },
+        {
+          "UserID": "2975577123751597632",
+          "UserName": "Quocbaoo",
+          "Rank": 19,
+          "LastActive": "2026-01-15T14:36:12.571344"
+        },
+        {
+          "UserID": "5493038060727042864",
+          "UserName": "Ng",
+          "Rank": 37,
+          "LastActive": "2026-01-15T17:37:30.978647"
+        },
+        {
+          "UserID": "6639759608631069998",
+          "UserName": "Nguyễn Minh Bảo",
+          "Rank": 8,
+          "LastActive": "2026-01-15T14:49:52.436007"
+        },
+        {
+          "UserID": "3365537439441776319",
+          "UserName": "Gia Huy",
+          "Rank": 34,
+          "LastActive": "2026-01-15T18:06:41.019996"
+        },
+        {
+          "UserID": "8756420854193064078",
+          "UserName": "Anh Thư",
+          "Rank": 2,
+          "LastActive": "2026-01-15T19:15:05.009612"
+        },
+        {
+          "UserID": "5610139620749566672",
+          "UserName": "Ronabii",
+          "Rank": 232,
+          "LastActive": "2026-01-15T21:24:41.055135"
+        },
+        {
+          "UserID": "9049565416054726557",
+          "UserName": "Minh Hiếu",
+          "Rank": 96,
+          "LastActive": "2026-01-15T21:21:48.953287"
+        },
+        {
+          "UserID": "6949500537863038330",
+          "UserName": "Ken",
+          "Rank": 1,
+          "LastActive": "2026-01-15T18:19:01.331345"
+        },
+        {
+          "UserID": "5660656050873382021",
+          "UserName": "Baobao Apple",
+          "Rank": 165,
+          "LastActive": "2026-01-15T21:16:57.376252"
+        },
+        {
+          "UserID": "6279332011637540655",
+          "UserName": "Tyrox Player",
+          "Rank": 6,
+          "LastActive": "2026-01-15T19:09:58.424617"
+        },
+        {
+          "UserID": "3350206789764654197",
+          "UserName": "Pqtツ",
+          "Rank": 2,
+          "LastActive": "2026-01-15T19:09:57.920830"
+        },
+        {
+          "UserID": "138483385159065312",
+          "UserName": "Xhuyツ彡",
+          "Rank": 1,
+          "LastActive": "2026-01-15T19:51:41.096651"
+        },
+        {
+          "UserID": "7965892429775312519",
+          "UserName": "Bro Is Not Tuff",
+          "Rank": 4,
+          "LastActive": "2026-01-15T21:08:14.999749"
+        },
+        {
+          "UserID": "4737571184037989044",
+          "UserName": "Lương Dư",
+          "Rank": 13,
+          "LastActive": "2026-01-15T22:01:56.665817"
+        },
+        {
+          "UserID": "4297505718341430440",
+          "UserName": "Tiến Trung",
+          "Rank": 27,
+          "LastActive": "2026-01-15T22:09:36.680217"
+        },
+        {
+          "UserID": "408130778402281634",
+          "UserName": "Trần Khánh",
+          "Rank": 5,
+          "LastActive": "2026-01-15T21:47:33.702256"
+        },
+        {
+          "UserID": "1979875031974680178",
+          "UserName": "亗かメ Văn ヅᅟᅟvuiᅟᅟいえ亗",
+          "Rank": 1,
+          "LastActive": "2026-01-15T21:48:47.256992"
+        }
+      ]
+    },
+    "2026-01-17": {
+      "users": [
+        {
+          "UserID": "695098115296876718",
+          "UserName": "Latte",
+          "Rank": 28,
+          "LastActive": "2026-01-17T21:27:47.918786"
+        },
+        {
+          "UserID": "4363505933185861253",
+          "UserName": "Hà Văn Chung",
+          "Rank": 43,
+          "LastActive": "2026-01-17T21:38:00.569622"
+        },
+        {
+          "UserID": "7205918879574855691",
+          "UserName": "Văn Hiếu",
+          "Rank": 4,
+          "LastActive": "2026-01-17T13:11:51.154748"
+        },
+        {
+          "UserID": "4297505718341430440",
+          "UserName": "Tiến Trung",
+          "Rank": 7,
+          "LastActive": "2026-01-17T21:08:02.081997"
+        },
+        {
+          "UserID": "1979875031974680178",
+          "UserName": "卍三二快乐的ᅟᅟvuiᅟᅟ快乐的 二三卍",
+          "Rank": 4,
+          "LastActive": "2026-01-17T10:56:50.012727"
+        },
+        {
+          "UserID": "8440310942864646953",
+          "UserName": "Vương",
+          "Rank": 3,
+          "LastActive": "2026-01-17T12:47:31.577581"
+        },
+        {
+          "UserID": "4942909907261008019",
+          "UserName": "Huy Bé",
+          "Rank": 4,
+          "LastActive": "2026-01-17T10:36:55.315875"
+        },
+        {
+          "UserID": "2869024572604679131",
+          "UserName": "Phùng Văn Hưng",
+          "Rank": 2,
+          "LastActive": "2026-01-17T21:02:35.612917"
+        },
+        {
+          "UserID": "6613585555015559107",
+          "UserName": "Khánh Hưng",
+          "Rank": 12,
+          "LastActive": "2026-01-17T15:59:42.607124"
+        },
+        {
+          "UserID": "8556855748098212555",
+          "UserName": "Khánh Trâm",
+          "Rank": 3,
+          "LastActive": "2026-01-17T11:40:32.572974"
+        },
+        {
+          "UserID": "7376495146241444949",
+          "UserName": "Dương",
+          "Rank": 8,
+          "LastActive": "2026-01-17T11:18:21.407799"
+        },
+        {
+          "UserID": "1130677349362256827",
+          "UserName": "Hex",
+          "Rank": 3,
+          "LastActive": "2026-01-17T11:17:15.663898"
+        },
+        {
+          "UserID": "7090095962527921006",
+          "UserName": "Xuan Chinh Media",
+          "Rank": 4,
+          "LastActive": "2026-01-17T20:31:14.322533"
+        },
+        {
+          "UserID": "3365537439441776319",
+          "UserName": "Gia Huy",
+          "Rank": 1,
+          "LastActive": "2026-01-17T11:40:02.217579"
+        },
+        {
+          "UserID": "4049244273645223226",
+          "UserName": "Lotus One",
+          "Rank": 5,
+          "LastActive": "2026-01-17T12:37:36.067822"
+        },
+        {
+          "UserID": "5610139620749566672",
+          "UserName": "Bắp Rang Bơ",
+          "Rank": 25,
+          "LastActive": "2026-01-17T20:02:51.133419"
+        },
+        {
+          "UserID": "3222283401951408060",
+          "UserName": "Vphuc Chấm On Lai",
+          "Rank": 1,
+          "LastActive": "2026-01-17T12:27:17.155332"
+        },
+        {
+          "UserID": "7134434203705939209",
+          "UserName": "Hadat",
+          "Rank": 3,
+          "LastActive": "2026-01-17T12:30:23.493184"
+        },
+        {
+          "UserID": "5660656050873382021",
+          "UserName": "Baobao Apple",
+          "Rank": 9,
+          "LastActive": "2026-01-17T12:37:25.004266"
+        },
+        {
+          "UserID": "138483385159065312",
+          "UserName": "Xhuyツ彡",
+          "Rank": 3,
+          "LastActive": "2026-01-17T15:59:11.845959"
+        },
+        {
+          "UserID": "9049565416054726557",
+          "UserName": "Minh Hiếu",
+          "Rank": 2,
+          "LastActive": "2026-01-17T19:54:36.081653"
+        },
+        {
+          "UserID": "8898986211516903540",
+          "UserName": "Kitty",
+          "Rank": 1,
+          "LastActive": "2026-01-17T19:56:05.714031"
+        },
+        {
+          "UserID": "3570174098950213248",
+          "UserName": "Letung",
+          "Rank": 3,
+          "LastActive": "2026-01-17T20:49:51.641806"
+        },
+        {
+          "UserID": "5946065186767512207",
+          "UserName": "Juni",
+          "Rank": 2,
+          "LastActive": "2026-01-17T21:04:27.427736"
+        }
+      ]
+    },
+    "2026-01-18": {
+      "users": [
+        {
+          "UserID": "695098115296876718",
+          "UserName": "Latte",
+          "Rank": 1,
+          "LastActive": "2026-01-18T12:44:39.332541"
+        },
+        {
+          "UserID": "7090095962527921006",
+          "UserName": "Xuan Chinh Media",
+          "Rank": 1,
+          "LastActive": "2026-01-18T13:00:48.819123"
+        }
+      ]
+    },
+    "2026-02-11": {
+      "users": [
+        {
+          "UserID": "695098115296876718",
+          "UserName": "Latte",
+          "Rank": 3,
+          "LastActive": "2026-02-11T09:26:05.964120"
+        },
+        {
+          "UserID": "5829810213990777836",
+          "UserName": "Nguyen Van Toan",
+          "Rank": 2,
+          "LastActive": "2026-02-11T09:31:36.754298"
+        },
+        {
+          "UserID": "7376495146241444949",
+          "UserName": "Dương",
+          "Rank": 15,
+          "LastActive": "2026-02-11T09:26:05.227455"
+        },
+        {
+          "UserID": "4297505718341430440",
+          "UserName": "Kenez",
+          "Rank": 2,
+          "LastActive": "2026-02-11T09:30:33.664790"
+        },
+        {
+          "UserID": "7752825776598485148",
+          "UserName": "Nguyễn Giang",
+          "Rank": 3,
+          "LastActive": "2026-02-11T09:17:48.363714"
+        },
+        {
+          "UserID": "2407125746557465196",
+          "UserName": "Nguyễn Xuân Quang",
+          "Rank": 1,
+          "LastActive": "2026-02-11T09:27:05.521306"
+        },
+        {
+          "UserID": "9133593827476261834",
+          "UserName": "Nguyễn Duy Anh",
+          "Rank": 1,
+          "LastActive": "2026-02-11T09:27:34.153626"
+        },
+        {
+          "UserID": "9122332548096136082",
+          "UserName": "Quang Tuấn",
+          "Rank": 1,
+          "LastActive": "2026-02-11T09:27:55.499355"
+        },
+        {
+          "UserID": "7723283432352133413",
+          "UserName": "Trợ Lí David Nguyễn",
+          "Rank": 1,
+          "LastActive": "2026-02-11T09:30:39.800740"
+        }
+      ]
+    }
+  },
+  "total": {
+    "users": [
+      {
+        "UserID": "695098115296876718",
+        "UserName": "Latte",
+        "Rank": 266,
+        "LastActive": "2026-02-11T09:26:05.964120"
+      },
+      {
+        "UserID": "8898986211516903540",
+        "UserName": "Kitty",
+        "Rank": 83,
+        "LastActive": "2026-01-17T19:56:05.714031"
+      },
+      {
+        "UserID": "7376495146241444949",
+        "UserName": "Dương",
+        "Rank": 105,
+        "LastActive": "2026-02-11T09:26:05.227455"
+      },
+      {
+        "UserID": "7853039660693152752",
+        "UserName": "Peo Peo",
+        "Rank": 5,
+        "LastActive": "2026-01-15T10:02:16.760935"
+      },
+      {
+        "UserID": "4656361102888610453",
+        "UserName": "Bé Tiên Cute",
+        "Rank": 4,
+        "LastActive": "2026-01-15T21:08:18.085514"
+      },
+      {
+        "UserID": "2869024572604679131",
+        "UserName": "Phùng Văn Hưng",
+        "Rank": 6,
+        "LastActive": "2026-01-17T21:02:35.612917"
+      },
+      {
+        "UserID": "5348358010476103474",
+        "UserName": "Ngoc Bao",
+        "Rank": 6,
+        "LastActive": "2026-01-15T19:54:24.003265"
+      },
+      {
+        "UserID": "3604373666702574350",
+        "UserName": "Em Không Sai Chúng Ta Sai",
+        "Rank": 20,
+        "LastActive": "2026-01-15T15:49:24.726282"
+      },
+      {
+        "UserID": "3222283401951408060",
+        "UserName": "Vphuc Chấm On Lai",
+        "Rank": 3,
+        "LastActive": "2026-01-17T12:27:17.155332"
+      },
+      {
+        "UserID": "4942909907261008019",
+        "UserName": "Huy Bé",
+        "Rank": 59,
+        "LastActive": "2026-01-17T10:36:55.315875"
+      },
+      {
+        "UserID": "8267637903950625463",
+        "UserName": "Mai Đinh Gia Bảo",
+        "Rank": 72,
+        "LastActive": "2026-01-15T20:13:09.987333"
+      },
+      {
+        "UserID": "1277587978572619697",
+        "UserName": "프로그램 작성 Khangdev 좋은",
+        "Rank": 10,
+        "LastActive": "2026-01-15T11:17:14.053819"
+      },
+      {
+        "UserID": "4068806218656725884",
+        "UserName": "Trần Trung Hiếu",
+        "Rank": 1,
+        "LastActive": "2026-01-15T10:57:10.933825"
+      },
+      {
+        "UserID": "7090095962527921006",
+        "UserName": "Xuan Chinh Media",
+        "Rank": 22,
+        "LastActive": "2026-01-18T13:00:48.819123"
+      },
+      {
+        "UserID": "4049244273645223226",
+        "UserName": "Lotus One",
+        "Rank": 7,
+        "LastActive": "2026-01-17T12:37:36.067822"
+      },
+      {
+        "UserID": "7134434203705939209",
+        "UserName": "Hadat",
+        "Rank": 9,
+        "LastActive": "2026-01-17T12:30:23.493184"
+      },
+      {
+        "UserID": "5946065186767512207",
+        "UserName": "Juni",
+        "Rank": 13,
+        "LastActive": "2026-01-17T21:04:27.427736"
+      },
+      {
+        "UserID": "4098374154973949163",
+        "UserName": "Gia Bao",
+        "Rank": 70,
+        "LastActive": "2026-01-15T17:37:26.849222"
+      },
+      {
+        "UserID": "2975577123751597632",
+        "UserName": "Quocbaoo",
+        "Rank": 19,
+        "LastActive": "2026-01-15T14:36:12.571344"
+      },
+      {
+        "UserID": "5493038060727042864",
+        "UserName": "Ng",
+        "Rank": 37,
+        "LastActive": "2026-01-15T17:37:30.978647"
+      },
+      {
+        "UserID": "6639759608631069998",
+        "UserName": "Nguyễn Minh Bảo",
+        "Rank": 8,
+        "LastActive": "2026-01-15T14:49:52.436007"
+      },
+      {
+        "UserID": "3365537439441776319",
+        "UserName": "Gia Huy",
+        "Rank": 35,
+        "LastActive": "2026-01-17T11:40:02.217579"
+      },
+      {
+        "UserID": "8756420854193064078",
+        "UserName": "Anh Thư",
+        "Rank": 2,
+        "LastActive": "2026-01-15T19:15:05.009612"
+      },
+      {
+        "UserID": "5610139620749566672",
+        "UserName": "Bắp Rang Bơ",
+        "Rank": 257,
+        "LastActive": "2026-01-17T20:02:51.133419"
+      },
+      {
+        "UserID": "9049565416054726557",
+        "UserName": "Minh Hiếu",
+        "Rank": 98,
+        "LastActive": "2026-01-17T19:54:36.081653"
+      },
+      {
+        "UserID": "6949500537863038330",
+        "UserName": "Ken",
+        "Rank": 1,
+        "LastActive": "2026-01-15T18:19:01.331345"
+      },
+      {
+        "UserID": "5660656050873382021",
+        "UserName": "Baobao Apple",
+        "Rank": 174,
+        "LastActive": "2026-01-17T12:37:25.004266"
+      },
+      {
+        "UserID": "6279332011637540655",
+        "UserName": "Tyrox Player",
+        "Rank": 6,
+        "LastActive": "2026-01-15T19:09:58.424617"
+      },
+      {
+        "UserID": "3350206789764654197",
+        "UserName": "Pqtツ",
+        "Rank": 2,
+        "LastActive": "2026-01-15T19:09:57.920830"
+      },
+      {
+        "UserID": "138483385159065312",
+        "UserName": "Xhuyツ彡",
+        "Rank": 4,
+        "LastActive": "2026-01-17T15:59:11.845959"
+      },
+      {
+        "UserID": "7965892429775312519",
+        "UserName": "Bro Is Not Tuff",
+        "Rank": 4,
+        "LastActive": "2026-01-15T21:08:14.999749"
+      },
+      {
+        "UserID": "4737571184037989044",
+        "UserName": "Lương Dư",
+        "Rank": 13,
+        "LastActive": "2026-01-15T22:01:56.665817"
+      },
+      {
+        "UserID": "4297505718341430440",
+        "UserName": "Kenez",
+        "Rank": 36,
+        "LastActive": "2026-02-11T09:30:33.664790"
+      },
+      {
+        "UserID": "408130778402281634",
+        "UserName": "Trần Khánh",
+        "Rank": 5,
+        "LastActive": "2026-01-15T21:47:33.702256"
+      },
+      {
+        "UserID": "1979875031974680178",
+        "UserName": "卍三二快乐的ᅟᅟvuiᅟᅟ快乐的 二三卍",
+        "Rank": 5,
+        "LastActive": "2026-01-17T10:56:50.012727"
+      },
+      {
+        "UserID": "4363505933185861253",
+        "UserName": "Hà Văn Chung",
+        "Rank": 43,
+        "LastActive": "2026-01-17T21:38:00.569622"
+      },
+      {
+        "UserID": "7205918879574855691",
+        "UserName": "Văn Hiếu",
+        "Rank": 4,
+        "LastActive": "2026-01-17T13:11:51.154748"
+      },
+      {
+        "UserID": "8440310942864646953",
+        "UserName": "Vương",
+        "Rank": 3,
+        "LastActive": "2026-01-17T12:47:31.577581"
+      },
+      {
+        "UserID": "6613585555015559107",
+        "UserName": "Khánh Hưng",
+        "Rank": 12,
+        "LastActive": "2026-01-17T15:59:42.607124"
+      },
+      {
+        "UserID": "8556855748098212555",
+        "UserName": "Khánh Trâm",
+        "Rank": 3,
+        "LastActive": "2026-01-17T11:40:32.572974"
+      },
+      {
+        "UserID": "1130677349362256827",
+        "UserName": "Hex",
+        "Rank": 3,
+        "LastActive": "2026-01-17T11:17:15.663898"
+      },
+      {
+        "UserID": "3570174098950213248",
+        "UserName": "Letung",
+        "Rank": 3,
+        "LastActive": "2026-01-17T20:49:51.641806"
+      },
+      {
+        "UserID": "5829810213990777836",
+        "UserName": "Nguyen Van Toan",
+        "Rank": 2,
+        "LastActive": "2026-02-11T09:31:36.754298"
+      },
+      {
+        "UserID": "7752825776598485148",
+        "UserName": "Nguyễn Giang",
+        "Rank": 3,
+        "LastActive": "2026-02-11T09:17:48.363714"
+      },
+      {
+        "UserID": "2407125746557465196",
+        "UserName": "Nguyễn Xuân Quang",
+        "Rank": 1,
+        "LastActive": "2026-02-11T09:27:05.521306"
+      },
+      {
+        "UserID": "9133593827476261834",
+        "UserName": "Nguyễn Duy Anh",
+        "Rank": 1,
+        "LastActive": "2026-02-11T09:27:34.153626"
+      },
+      {
+        "UserID": "9122332548096136082",
+        "UserName": "Quang Tuấn",
+        "Rank": 1,
+        "LastActive": "2026-02-11T09:27:55.499355"
+      },
+      {
+        "UserID": "7723283432352133413",
+        "UserName": "Trợ Lí David Nguyễn",
+        "Rank": 1,
+        "LastActive": "2026-02-11T09:30:39.800740"
+      }
+    ]
+  }
+}

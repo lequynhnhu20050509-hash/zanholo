@@ -1,0 +1,948 @@
+{
+  "4049244273645223226": {
+    "name": "Daniel Zang Ngwin",
+    "money": 536,
+    "kho": [
+      {
+        "name": "Cá Ngựa Tím",
+        "strength": 4,
+        "speed": 3,
+        "rarity": "Xịn",
+        "desc": "Cá nhỏ nhưng đẹp, hiếm gặp ngoài tự nhiên."
+      },
+      {
+        "name": "Cá Bạc Thần",
+        "strength": 8,
+        "speed": 7,
+        "rarity": "Hiếm",
+        "desc": "Cá thần thoại, khó bắt được."
+      },
+      {
+        "name": "Cá Heo Vui Vẻ",
+        "strength": 7,
+        "speed": 8,
+        "rarity": "Xịn",
+        "desc": "Thông minh, thích chơi đùa."
+      },
+      {
+        "name": "Cá Bống Nhiệt Đới",
+        "strength": 2,
+        "speed": 3,
+        "rarity": "Bình thường",
+        "desc": "Cá nhỏ, dễ gặp trong rạn san hô."
+      },
+      {
+        "name": "Cá Bạc Thần",
+        "strength": 8,
+        "speed": 7,
+        "rarity": "Hiếm",
+        "desc": "Cá thần thoại, khó bắt được."
+      },
+      {
+        "name": "Cá Thu Bạc",
+        "strength": 6,
+        "speed": 7,
+        "rarity": "Xịn",
+        "desc": "Nhanh và mạnh, thường bị săn."
+      },
+      {
+        "name": "Cá Ngựa Tím",
+        "strength": 4,
+        "speed": 3,
+        "rarity": "Xịn",
+        "desc": "Cá nhỏ nhưng đẹp, hiếm gặp ngoài tự nhiên."
+      },
+      {
+        "name": "Cá Mặt Trời",
+        "strength": 6,
+        "speed": 6,
+        "rarity": "Xịn",
+        "desc": "Thân to, bơi chậm nhưng mạnh."
+      },
+      {
+        "name": "Cá Tuyết Hoa",
+        "strength": 5,
+        "speed": 4,
+        "rarity": "Bình thường",
+        "desc": "Đẹp mắt nhưng yếu."
+      },
+      {
+        "name": "Cá Sấu Nước Ngọt",
+        "strength": 9,
+        "speed": 6,
+        "rarity": "Hiếm",
+        "desc": "Động vật săn mồi mạnh mẽ ở sông hồ."
+      },
+      {
+        "name": "Cá Chuồn Bay",
+        "strength": 4,
+        "speed": 8,
+        "rarity": "Xịn",
+        "desc": "Có thể nhảy khỏi mặt nước, rất nhanh."
+      },
+      {
+        "name": "Cá Sấu Nước Ngọt",
+        "strength": 9,
+        "speed": 6,
+        "rarity": "Hiếm",
+        "desc": "Động vật săn mồi mạnh mẽ ở sông hồ."
+      },
+      {
+        "name": "Cá Tuyết Bắc Cực",
+        "strength": 5,
+        "speed": 4,
+        "rarity": "Hiếm",
+        "desc": "Sống ở vùng lạnh, khó câu."
+      },
+      {
+        "name": "Cá Bạc Thần",
+        "strength": 8,
+        "speed": 7,
+        "rarity": "Hiếm",
+        "desc": "Cá thần thoại, khó bắt được."
+      },
+      {
+        "name": "Cá Bạc Thần",
+        "strength": 8,
+        "speed": 7,
+        "rarity": "Hiếm",
+        "desc": "Cá thần thoại, khó bắt được."
+      },
+      {
+        "name": "Cá Vàng Bảy Sắc",
+        "strength": 5,
+        "speed": 4,
+        "rarity": "Xịn",
+        "desc": "Sắc màu thay đổi theo ánh sáng."
+      },
+      {
+        "name": "Cá Heo Vui Vẻ",
+        "strength": 7,
+        "speed": 8,
+        "rarity": "Xịn",
+        "desc": "Thông minh, thích chơi đùa."
+      },
+      {
+        "name": "Cá Ngọc Trai",
+        "strength": 3,
+        "speed": 2,
+        "rarity": "Xịn",
+        "desc": "Giá trị cao, hiếm gặp."
+      },
+      {
+        "name": "Cá Rồng Lửa",
+        "strength": 9,
+        "speed": 8,
+        "rarity": "Hiếm",
+        "desc": "Rực rỡ và hung dữ, khó bắt."
+      },
+      {
+        "name": "Cá Phượng Hoàng",
+        "strength": 10,
+        "speed": 9,
+        "rarity": "Huyền thoại",
+        "desc": "Cá thần thoại, rực rỡ, cực hiếm."
+      },
+      {
+        "name": "Cá Rồng Bất Tử",
+        "strength": 10,
+        "speed": 9,
+        "rarity": "Huyền thoại",
+        "desc": "Cá rồng thần thoại, khó ai có thể bắt được."
+      },
+      {
+        "name": "Cá Tuyết Hoa",
+        "strength": 5,
+        "speed": 4,
+        "rarity": "Bình thường",
+        "desc": "Đẹp mắt nhưng yếu."
+      },
+      {
+        "name": "Cá Bạc Thần",
+        "strength": 8,
+        "speed": 7,
+        "rarity": "Hiếm",
+        "desc": "Cá thần thoại, khó bắt được."
+      },
+      {
+        "name": "Cá Tầm Cổ Đại",
+        "strength": 7,
+        "speed": 5,
+        "rarity": "Hiếm",
+        "desc": "Cá sống lâu đời, khó bắt."
+      },
+      {
+        "name": "Cá Bơn Rực Rỡ",
+        "strength": 3,
+        "speed": 2,
+        "rarity": "Bình thường",
+        "desc": "Màu sắc sặc sỡ, thường ở gần bờ."
+      },
+      {
+        "name": "Cá Chuồn Bay",
+        "strength": 4,
+        "speed": 8,
+        "rarity": "Xịn",
+        "desc": "Có thể nhảy khỏi mặt nước, rất nhanh."
+      },
+      {
+        "name": "Cá Thu Bạc",
+        "strength": 6,
+        "speed": 7,
+        "rarity": "Xịn",
+        "desc": "Nhanh và mạnh, thường bị săn."
+      },
+      {
+        "name": "Cá Chình Điên",
+        "strength": 5,
+        "speed": 6,
+        "rarity": "Xịn",
+        "desc": "Thích núp dưới bùn, tấn công bất ngờ."
+      },
+      {
+        "name": "Cá Chình Điên",
+        "strength": 5,
+        "speed": 6,
+        "rarity": "Xịn",
+        "desc": "Thích núp dưới bùn, tấn công bất ngờ."
+      },
+      {
+        "name": "Cá Rồng Lửa",
+        "strength": 9,
+        "speed": 8,
+        "rarity": "Hiếm",
+        "desc": "Rực rỡ và hung dữ, khó bắt."
+      },
+      {
+        "name": "Cá Bạc Thần",
+        "strength": 8,
+        "speed": 7,
+        "rarity": "Hiếm",
+        "desc": "Cá thần thoại, khó bắt được."
+      },
+      {
+        "name": "Cá Mú Bóng Đêm",
+        "strength": 6,
+        "speed": 5,
+        "rarity": "Xịn",
+        "desc": "Thích sống ở đáy biển tối."
+      },
+      {
+        "name": "Cá Mú Bóng Đêm",
+        "strength": 6,
+        "speed": 5,
+        "rarity": "Xịn",
+        "desc": "Thích sống ở đáy biển tối."
+      },
+      {
+        "name": "Cá Tầm Cổ Đại",
+        "strength": 7,
+        "speed": 5,
+        "rarity": "Hiếm",
+        "desc": "Cá sống lâu đời, khó bắt."
+      },
+      {
+        "name": "Cá Tuyết Bắc Cực",
+        "strength": 5,
+        "speed": 4,
+        "rarity": "Hiếm",
+        "desc": "Sống ở vùng lạnh, khó câu."
+      },
+      {
+        "name": "Cá Ngọc Trai",
+        "strength": 3,
+        "speed": 2,
+        "rarity": "Xịn",
+        "desc": "Giá trị cao, hiếm gặp."
+      },
+      {
+        "name": "Cá Mèo Điên",
+        "strength": 4,
+        "speed": 3,
+        "rarity": "Bình thường",
+        "desc": "Cá hiền nhưng dễ nổi giận."
+      },
+      {
+        "name": "Cá Hề Biển Sâu",
+        "strength": 3,
+        "speed": 4,
+        "rarity": "Bình thường",
+        "desc": "Nhỏ nhưng nhanh, thích sống giữa san hô."
+      },
+      {
+        "name": "Cá Lốc Tử Thần",
+        "strength": 8,
+        "speed": 7,
+        "rarity": "Hiếm",
+        "desc": "Tốc độ phi thường, dễ dàng thoát khỏi lưỡi câu thường."
+      },
+      {
+        "name": "Cá Rồng Lửa",
+        "strength": 9,
+        "speed": 8,
+        "rarity": "Hiếm",
+        "desc": "Rực rỡ và hung dữ, khó bắt."
+      },
+      {
+        "name": "Cá Voi Xanh",
+        "strength": 12,
+        "speed": 5,
+        "rarity": "Huyền thoại",
+        "desc": "Khổng lồ và hiền lành, khó thấy ngoài biển sâu."
+      },
+      {
+        "name": "Mực Bóng Ma Nguyên Thủy",
+        "strength": 8,
+        "speed": 7,
+        "rarity": "Hiếm",
+        "desc": "Ẩn mình trong bóng tối, tấn công bất ngờ."
+      },
+      {
+        "name": "Cá Chuồn Bay",
+        "strength": 4,
+        "speed": 8,
+        "rarity": "Xịn",
+        "desc": "Có thể nhảy khỏi mặt nước, rất nhanh."
+      }
+    ],
+    "cau": {
+      "id": "rod_20",
+      "name": "Cần Huyền Thoại",
+      "rate": 1.0
+    },
+    "mồi": [
+      {
+        "id": "bait_5",
+        "name": "Mồi Cá Huyền Thoại",
+        "bonus": 20,
+        "qty": 6
+      }
+    ],
+    "last_daily": 0
+  },
+  "5861621492745338195": {
+    "name": "Lê Minh Kha",
+    "money": 3252,
+    "kho": [
+      {
+        "name": "Cá Chuồn Bay",
+        "strength": 4,
+        "speed": 8,
+        "rarity": "Xịn",
+        "desc": "Có thể nhảy khỏi mặt nước, rất nhanh."
+      },
+      {
+        "name": "Cá Mú Bóng Đêm",
+        "strength": 6,
+        "speed": 5,
+        "rarity": "Xịn",
+        "desc": "Thích sống ở đáy biển tối."
+      },
+      {
+        "name": "Cá Heo Vui Vẻ",
+        "strength": 7,
+        "speed": 8,
+        "rarity": "Xịn",
+        "desc": "Thông minh, thích chơi đùa."
+      },
+      {
+        "name": "Cá Bống Nhiệt Đới",
+        "strength": 2,
+        "speed": 3,
+        "rarity": "Bình thường",
+        "desc": "Cá nhỏ, dễ gặp trong rạn san hô."
+      },
+      {
+        "name": "Cá Voi Xanh",
+        "strength": 12,
+        "speed": 5,
+        "rarity": "Huyền thoại",
+        "desc": "Khổng lồ và hiền lành, khó thấy ngoài biển sâu."
+      },
+      {
+        "name": "Cá Heo Vui Vẻ",
+        "strength": 7,
+        "speed": 8,
+        "rarity": "Xịn",
+        "desc": "Thông minh, thích chơi đùa."
+      },
+      {
+        "name": "Cá Tầm Cổ Đại",
+        "strength": 7,
+        "speed": 5,
+        "rarity": "Hiếm",
+        "desc": "Cá sống lâu đời, khó bắt."
+      },
+      {
+        "name": "Cá Hồng Phát Lộc",
+        "strength": 4,
+        "speed": 3,
+        "rarity": "Bình thường",
+        "desc": "Mang lại may mắn, đẹp mắt."
+      },
+      {
+        "name": "Cá Tuyết Hoa",
+        "strength": 5,
+        "speed": 4,
+        "rarity": "Bình thường",
+        "desc": "Đẹp mắt nhưng yếu."
+      },
+      {
+        "name": "Cá Rồng Lửa",
+        "strength": 9,
+        "speed": 8,
+        "rarity": "Hiếm",
+        "desc": "Rực rỡ và hung dữ, khó bắt."
+      },
+      {
+        "name": "Cá Chình Điên",
+        "strength": 5,
+        "speed": 6,
+        "rarity": "Xịn",
+        "desc": "Thích núp dưới bùn, tấn công bất ngờ."
+      },
+      {
+        "name": "Cá Phượng Hoàng",
+        "strength": 10,
+        "speed": 9,
+        "rarity": "Huyền thoại",
+        "desc": "Cá thần thoại, rực rỡ, cực hiếm."
+      },
+      {
+        "name": "Cá Lươn Sấm",
+        "strength": 6,
+        "speed": 9,
+        "rarity": "Hiếm",
+        "desc": "Nhanh như tia sét, khó bắt."
+      },
+      {
+        "name": "Cá Tuyết Bắc Cực",
+        "strength": 5,
+        "speed": 4,
+        "rarity": "Hiếm",
+        "desc": "Sống ở vùng lạnh, khó câu."
+      },
+      {
+        "name": "Cá Thu Bạc",
+        "strength": 6,
+        "speed": 7,
+        "rarity": "Xịn",
+        "desc": "Nhanh và mạnh, thường bị săn."
+      },
+      {
+        "name": "Cá Mú Bóng Đêm",
+        "strength": 6,
+        "speed": 5,
+        "rarity": "Xịn",
+        "desc": "Thích sống ở đáy biển tối."
+      },
+      {
+        "name": "Cá Vàng Bảy Sắc",
+        "strength": 5,
+        "speed": 4,
+        "rarity": "Xịn",
+        "desc": "Sắc màu thay đổi theo ánh sáng."
+      },
+      {
+        "name": "Cá Ngọc Trai",
+        "strength": 3,
+        "speed": 2,
+        "rarity": "Xịn",
+        "desc": "Giá trị cao, hiếm gặp."
+      },
+      {
+        "name": "Cá Ngựa Tím",
+        "strength": 4,
+        "speed": 3,
+        "rarity": "Xịn",
+        "desc": "Cá nhỏ nhưng đẹp, hiếm gặp ngoài tự nhiên."
+      },
+      {
+        "name": "Cá Tuyết Hoa",
+        "strength": 5,
+        "speed": 4,
+        "rarity": "Bình thường",
+        "desc": "Đẹp mắt nhưng yếu."
+      },
+      {
+        "name": "Cá Ngựa Tím",
+        "strength": 4,
+        "speed": 3,
+        "rarity": "Xịn",
+        "desc": "Cá nhỏ nhưng đẹp, hiếm gặp ngoài tự nhiên."
+      },
+      {
+        "name": "Cá Rồng Bất Tử",
+        "strength": 10,
+        "speed": 9,
+        "rarity": "Huyền thoại",
+        "desc": "Cá rồng thần thoại, khó ai có thể bắt được."
+      },
+      {
+        "name": "Cá Tầm Cổ Đại",
+        "strength": 7,
+        "speed": 5,
+        "rarity": "Hiếm",
+        "desc": "Cá sống lâu đời, khó bắt."
+      },
+      {
+        "name": "Cá Lốc Tử Thần",
+        "strength": 8,
+        "speed": 7,
+        "rarity": "Hiếm",
+        "desc": "Tốc độ phi thường, dễ dàng thoát khỏi lưỡi câu thường."
+      },
+      {
+        "name": "Cá Sấu Nước Ngọt",
+        "strength": 9,
+        "speed": 6,
+        "rarity": "Hiếm",
+        "desc": "Động vật săn mồi mạnh mẽ ở sông hồ."
+      },
+      {
+        "name": "Cá Đuối Huyền Bí",
+        "strength": 9,
+        "speed": 6,
+        "rarity": "Hiếm",
+        "desc": "Ẩn mình ở đáy biển, bất ngờ tấn công."
+      },
+      {
+        "name": "Cá Tuyết Bắc Cực",
+        "strength": 5,
+        "speed": 4,
+        "rarity": "Hiếm",
+        "desc": "Sống ở vùng lạnh, khó câu."
+      },
+      {
+        "name": "Cá Rồng Bất Tử",
+        "strength": 10,
+        "speed": 9,
+        "rarity": "Huyền thoại",
+        "desc": "Cá rồng thần thoại, khó ai có thể bắt được."
+      },
+      {
+        "name": "Cá Heo Vui Vẻ",
+        "strength": 7,
+        "speed": 8,
+        "rarity": "Xịn",
+        "desc": "Thông minh, thích chơi đùa."
+      },
+      {
+        "name": "Cá Thu Bạc",
+        "strength": 6,
+        "speed": 7,
+        "rarity": "Xịn",
+        "desc": "Nhanh và mạnh, thường bị săn."
+      },
+      {
+        "name": "Cá Rồng Bất Tử",
+        "strength": 10,
+        "speed": 9,
+        "rarity": "Huyền thoại",
+        "desc": "Cá rồng thần thoại, khó ai có thể bắt được."
+      },
+      {
+        "name": "Cá Chình Điên",
+        "strength": 5,
+        "speed": 6,
+        "rarity": "Xịn",
+        "desc": "Thích núp dưới bùn, tấn công bất ngờ."
+      },
+      {
+        "name": "Cá Mặt Trời",
+        "strength": 6,
+        "speed": 6,
+        "rarity": "Xịn",
+        "desc": "Thân to, bơi chậm nhưng mạnh."
+      },
+      {
+        "name": "Cá Chép Vàng",
+        "strength": 2,
+        "speed": 2,
+        "rarity": "Bình thường",
+        "desc": "Cá chép vàng phổ biến, dễ câu."
+      },
+      {
+        "name": "Cá Ngọc Trai",
+        "strength": 3,
+        "speed": 2,
+        "rarity": "Xịn",
+        "desc": "Giá trị cao, hiếm gặp."
+      },
+      {
+        "name": "Cá Tuyết Bắc Cực",
+        "strength": 5,
+        "speed": 4,
+        "rarity": "Hiếm",
+        "desc": "Sống ở vùng lạnh, khó câu."
+      },
+      {
+        "name": "Cá Bống Nhiệt Đới",
+        "strength": 2,
+        "speed": 3,
+        "rarity": "Bình thường",
+        "desc": "Cá nhỏ, dễ gặp trong rạn san hô."
+      },
+      {
+        "name": "Cá Rồng Lửa",
+        "strength": 9,
+        "speed": 8,
+        "rarity": "Hiếm",
+        "desc": "Rực rỡ và hung dữ, khó bắt."
+      },
+      {
+        "name": "Cá Heo Vui Vẻ",
+        "strength": 7,
+        "speed": 8,
+        "rarity": "Xịn",
+        "desc": "Thông minh, thích chơi đùa."
+      },
+      {
+        "name": "Cá Hồng Phát Lộc",
+        "strength": 4,
+        "speed": 3,
+        "rarity": "Bình thường",
+        "desc": "Mang lại may mắn, đẹp mắt."
+      },
+      {
+        "name": "Cá Mập Máu",
+        "strength": 9,
+        "speed": 8,
+        "rarity": "Hiếm",
+        "desc": "Mạnh mẽ và hung dữ, nổi tiếng trên khắp đại dương."
+      },
+      {
+        "name": "Cá Tuyết Hoa",
+        "strength": 5,
+        "speed": 4,
+        "rarity": "Bình thường",
+        "desc": "Đẹp mắt nhưng yếu."
+      },
+      {
+        "name": "Cá Thu Bạc",
+        "strength": 6,
+        "speed": 7,
+        "rarity": "Xịn",
+        "desc": "Nhanh và mạnh, thường bị săn."
+      },
+      {
+        "name": "Cá Ngựa Tím",
+        "strength": 4,
+        "speed": 3,
+        "rarity": "Xịn",
+        "desc": "Cá nhỏ nhưng đẹp, hiếm gặp ngoài tự nhiên."
+      },
+      {
+        "name": "Cá Tầm Cổ Đại",
+        "strength": 7,
+        "speed": 5,
+        "rarity": "Hiếm",
+        "desc": "Cá sống lâu đời, khó bắt."
+      },
+      {
+        "name": "Mực Bóng Ma Nguyên Thủy",
+        "strength": 8,
+        "speed": 7,
+        "rarity": "Hiếm",
+        "desc": "Ẩn mình trong bóng tối, tấn công bất ngờ."
+      },
+      {
+        "name": "Cá Bạc Thần",
+        "strength": 8,
+        "speed": 7,
+        "rarity": "Hiếm",
+        "desc": "Cá thần thoại, khó bắt được."
+      },
+      {
+        "name": "Cá Mú Bóng Đêm",
+        "strength": 6,
+        "speed": 5,
+        "rarity": "Xịn",
+        "desc": "Thích sống ở đáy biển tối."
+      },
+      {
+        "name": "Cá Mèo Điên",
+        "strength": 4,
+        "speed": 3,
+        "rarity": "Bình thường",
+        "desc": "Cá hiền nhưng dễ nổi giận."
+      },
+      {
+        "name": "Cá Chình Điên",
+        "strength": 5,
+        "speed": 6,
+        "rarity": "Xịn",
+        "desc": "Thích núp dưới bùn, tấn công bất ngờ."
+      },
+      {
+        "name": "Cá Hổ Đại Dương",
+        "strength": 11,
+        "speed": 8,
+        "rarity": "Hiếm",
+        "desc": "Thân to, săn mồi cực nhanh."
+      },
+      {
+        "name": "Mực Bóng Ma Nguyên Thủy",
+        "strength": 8,
+        "speed": 7,
+        "rarity": "Hiếm",
+        "desc": "Ẩn mình trong bóng tối, tấn công bất ngờ."
+      },
+      {
+        "name": "Cá Mèo Điên",
+        "strength": 4,
+        "speed": 3,
+        "rarity": "Bình thường",
+        "desc": "Cá hiền nhưng dễ nổi giận."
+      },
+      {
+        "name": "Cá Rồng Lửa",
+        "strength": 9,
+        "speed": 8,
+        "rarity": "Hiếm",
+        "desc": "Rực rỡ và hung dữ, khó bắt."
+      },
+      {
+        "name": "Mực Bóng Ma Nguyên Thủy",
+        "strength": 8,
+        "speed": 7,
+        "rarity": "Hiếm",
+        "desc": "Ẩn mình trong bóng tối, tấn công bất ngờ."
+      },
+      {
+        "name": "Cá Lốc Tử Thần",
+        "strength": 8,
+        "speed": 7,
+        "rarity": "Hiếm",
+        "desc": "Tốc độ phi thường, dễ dàng thoát khỏi lưỡi câu thường."
+      },
+      {
+        "name": "Cá Sấu Nước Ngọt",
+        "strength": 9,
+        "speed": 6,
+        "rarity": "Hiếm",
+        "desc": "Động vật săn mồi mạnh mẽ ở sông hồ."
+      },
+      {
+        "name": "Cá Chình Điên",
+        "strength": 5,
+        "speed": 6,
+        "rarity": "Xịn",
+        "desc": "Thích núp dưới bùn, tấn công bất ngờ."
+      },
+      {
+        "name": "Cá Tuyết Hoa",
+        "strength": 5,
+        "speed": 4,
+        "rarity": "Bình thường",
+        "desc": "Đẹp mắt nhưng yếu."
+      },
+      {
+        "name": "Cá Vàng Bảy Sắc",
+        "strength": 5,
+        "speed": 4,
+        "rarity": "Xịn",
+        "desc": "Sắc màu thay đổi theo ánh sáng."
+      },
+      {
+        "name": "Mực Bóng Ma Nguyên Thủy",
+        "strength": 8,
+        "speed": 7,
+        "rarity": "Hiếm",
+        "desc": "Ẩn mình trong bóng tối, tấn công bất ngờ."
+      },
+      {
+        "name": "Cá Lốc Tử Thần",
+        "strength": 8,
+        "speed": 7,
+        "rarity": "Hiếm",
+        "desc": "Tốc độ phi thường, dễ dàng thoát khỏi lưỡi câu thường."
+      },
+      {
+        "name": "Cá Bơn Rực Rỡ",
+        "strength": 3,
+        "speed": 2,
+        "rarity": "Bình thường",
+        "desc": "Màu sắc sặc sỡ, thường ở gần bờ."
+      },
+      {
+        "name": "Mực Bóng Ma Nguyên Thủy",
+        "strength": 8,
+        "speed": 7,
+        "rarity": "Hiếm",
+        "desc": "Ẩn mình trong bóng tối, tấn công bất ngờ."
+      }
+    ],
+    "cau": {
+      "id": "rod_20",
+      "name": "Cần Huyền Thoại",
+      "rate": 1.0
+    },
+    "mồi": [],
+    "last_daily": 0
+  },
+  "7376495146241444949": {
+    "name": "Dương",
+    "money": 812,
+    "kho": [
+      {
+        "name": "Cá Heo Vui Vẻ",
+        "strength": 7,
+        "speed": 8,
+        "rarity": "Xịn",
+        "desc": "Thông minh, thích chơi đùa."
+      },
+      {
+        "name": "Cá Hồng Phát Lộc",
+        "strength": 4,
+        "speed": 3,
+        "rarity": "Bình thường",
+        "desc": "Mang lại may mắn, đẹp mắt."
+      },
+      {
+        "name": "Cá Phượng Hoàng",
+        "strength": 10,
+        "speed": 9,
+        "rarity": "Huyền thoại",
+        "desc": "Cá thần thoại, rực rỡ, cực hiếm."
+      },
+      {
+        "name": "Cá Rồng Bất Tử",
+        "strength": 10,
+        "speed": 9,
+        "rarity": "Huyền thoại",
+        "desc": "Cá rồng thần thoại, khó ai có thể bắt được."
+      },
+      {
+        "name": "Cá Hề Biển Sâu",
+        "strength": 3,
+        "speed": 4,
+        "rarity": "Bình thường",
+        "desc": "Nhỏ nhưng nhanh, thích sống giữa san hô."
+      },
+      {
+        "name": "Cá Mặt Trời",
+        "strength": 6,
+        "speed": 6,
+        "rarity": "Xịn",
+        "desc": "Thân to, bơi chậm nhưng mạnh."
+      }
+    ],
+    "cau": {
+      "id": "rod_1",
+      "name": "Cần Tre",
+      "rate": 0.65
+    },
+    "mồi": [],
+    "last_daily": 0
+  },
+  "1565121431081474483": {
+    "name": "Nth Limid",
+    "money": 562,
+    "kho": [
+      {
+        "name": "Cá Tuyết Hoa",
+        "strength": 5,
+        "speed": 4,
+        "rarity": "Bình thường",
+        "desc": "Đẹp mắt nhưng yếu."
+      },
+      {
+        "name": "Cá Mú Bóng Đêm",
+        "strength": 6,
+        "speed": 5,
+        "rarity": "Xịn",
+        "desc": "Thích sống ở đáy biển tối."
+      },
+      {
+        "name": "Cá Chép Vàng",
+        "strength": 2,
+        "speed": 2,
+        "rarity": "Bình thường",
+        "desc": "Cá chép vàng phổ biến, dễ câu."
+      }
+    ],
+    "cau": {
+      "id": "rod_1",
+      "name": "Cần Tre",
+      "rate": 0.65
+    },
+    "mồi": [],
+    "last_daily": 0
+  },
+  "8267637903950625463": {
+    "name": "Mai Đinh Gia Bảo",
+    "money": 624,
+    "kho": [
+      {
+        "name": "Cá Lươn Sấm",
+        "strength": 6,
+        "speed": 9,
+        "rarity": "Hiếm",
+        "desc": "Nhanh như tia sét, khó bắt."
+      },
+      {
+        "name": "Cá Bống Nhiệt Đới",
+        "strength": 2,
+        "speed": 3,
+        "rarity": "Bình thường",
+        "desc": "Cá nhỏ, dễ gặp trong rạn san hô."
+      }
+    ],
+    "cau": {
+      "id": "rod_1",
+      "name": "Cần Tre",
+      "rate": 0.65
+    },
+    "mồi": [],
+    "last_daily": 0
+  },
+  "2277390304056668561": {
+    "name": "Minh Đức",
+    "money": 836,
+    "kho": [
+      {
+        "name": "Mực Bóng Ma Nguyên Thủy",
+        "strength": 8,
+        "speed": 7,
+        "rarity": "Hiếm",
+        "desc": "Ẩn mình trong bóng tối, tấn công bất ngờ."
+      },
+      {
+        "name": "Cá Lốc Tử Thần",
+        "strength": 8,
+        "speed": 7,
+        "rarity": "Hiếm",
+        "desc": "Tốc độ phi thường, dễ dàng thoát khỏi lưỡi câu thường."
+      },
+      {
+        "name": "Cá Phượng Hoàng",
+        "strength": 10,
+        "speed": 9,
+        "rarity": "Huyền thoại",
+        "desc": "Cá thần thoại, rực rỡ, cực hiếm."
+      },
+      {
+        "name": "Cá Lốc Tử Thần",
+        "strength": 8,
+        "speed": 7,
+        "rarity": "Hiếm",
+        "desc": "Tốc độ phi thường, dễ dàng thoát khỏi lưỡi câu thường."
+      },
+      {
+        "name": "Cá Bơn Rực Rỡ",
+        "strength": 3,
+        "speed": 2,
+        "rarity": "Bình thường",
+        "desc": "Màu sắc sặc sỡ, thường ở gần bờ."
+      }
+    ],
+    "cau": {
+      "id": "rod_1",
+      "name": "Cần Tre",
+      "rate": 0.65
+    },
+    "mồi": [],
+    "last_daily": 0
+  }
+}
